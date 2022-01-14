@@ -16,7 +16,7 @@ You can get IP information with `$_GET`
 
 ### Example of IP search `31.13.90.36`
 - From here http://ip.krhost.ga/index.php?ip=31.13.90.36
-or to search for `facebook.com`
+### or to search for `facebook.com`
 - From here http://ip.krhost.ga/index.php?ip=facebook.com
 
 ##How to install the script:
