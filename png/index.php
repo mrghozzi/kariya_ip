@@ -1,3 +1,1 @@
-﻿<?php
-header("Location: http://www.krhost.ga/error.php?404") ;
-  ?>
+<?php header("Location: ../"); exit; ?>
