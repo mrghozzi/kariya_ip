@@ -2,7 +2,7 @@
 This program is an IP address search engine. You can know all the IP information by entering the IP address or the domain name.
 
 >
-> ![kariya_ip](https://traidnt.club/attachments/firefox_screenshot_2021-12-18t22-02-28-522z-png.280/)
+> ![kariya_ip](/logo.png)
 
 An example of how the program works:
 
@@ -15,9 +15,9 @@ You can get IP information with `$_GET`
 ``index.php?ip=IP address``
 
 ### Example of IP search `31.13.90.36`
-- From here http://ip.krhost.ga/index.php?ip=31.13.90.36
+- From here https://ip.is-best.net/index.php?ip=31.13.90.36
 ### or to search for `facebook.com`
-- From here http://ip.krhost.ga/index.php?ip=facebook.com
+- From here https://ip.is-best.net/index.php?ip=facebook.com
 
 ##How to install the script:
 
